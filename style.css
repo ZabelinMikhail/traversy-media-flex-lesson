@@ -8,7 +8,7 @@ body {
     font-size: 16px;
     line-height: 1.5;
     color: #333;
-    background-color: blue;
+    background-color: #4a9cc2;
 }
 
 img {
@@ -31,7 +31,7 @@ ul {
 }
 
 .navbar {
-    background: #347;
+    background: #261d4c;
     color: white;
     height: 60px;
     
@@ -69,7 +69,7 @@ ul {
 }
 
 .header {
-    background-color: rgb(16, 16, 56);
+    background-color: #1d153a;
     color: white;
     min-height: 400px;
 }
@@ -97,7 +97,7 @@ ul {
 
 .box {
     flex: 1;
-    background-color:  rgb(16, 16, 56);
+    background-color:  #1d153a;
     color: white;
     border-radius:  10px;
     margin: 20px 10px;
